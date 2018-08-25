@@ -1,0 +1,379 @@
+"[    Unnamed: 0 State Local Govt.             Ward  \
+0            1  ABIA   ABA NORTH   ARIARIA MARKET   
+1            2  ABIA   ABA NORTH   ARIARIA MARKET   
+2            3  ABIA   ABA NORTH   ARIARIA MARKET   
+3            4  ABIA   ABA NORTH   ARIARIA MARKET   
+4            5  ABIA   ABA NORTH   ARIARIA MARKET   
+5            6  ABIA   ABA NORTH   ARIARIA MARKET   
+6            7  ABIA   ABA NORTH   ARIARIA MARKET   
+7            8  ABIA   ABA NORTH   ARIARIA MARKET   
+8            9  ABIA   ABA NORTH   ARIARIA MARKET   
+9           10  ABIA   ABA NORTH   ARIARIA MARKET   
+10          11  ABIA   ABA NORTH   ARIARIA MARKET   
+11          12  ABIA   ABA NORTH   ARIARIA MARKET   
+12          13  ABIA   ABA NORTH   ARIARIA MARKET   
+13          14  ABIA   ABA NORTH   ARIARIA MARKET   
+14          15  ABIA   ABA NORTH   ARIARIA MARKET   
+15          16  ABIA   ABA NORTH   ARIARIA MARKET   
+16          17  ABIA   ABA NORTH   ARIARIA MARKET   
+17          18  ABIA   ABA NORTH   ARIARIA MARKET   
+18          19  ABIA   ABA NORTH   ARIARIA MARKET   
+19          20  ABIA   ABA NORTH   ARIARIA MARKET   
+20          21  ABIA   ABA NORTH   ARIARIA MARKET   
+21          22  ABIA   ABA NORTH   ARIARIA MARKET   
+22          23  ABIA   ABA NORTH   ARIARIA MARKET   
+23          24  ABIA   ABA NORTH   ARIARIA MARKET   
+24          25  ABIA   ABA NORTH   ARIARIA MARKET   
+25          26  ABIA   ABA NORTH   ARIARIA MARKET   
+26          27  ABIA   ABA NORTH   ARIARIA MARKET   
+27          28  ABIA   ABA NORTH   ARIARIA MARKET   
+28          29  ABIA   ABA NORTH   ARIARIA MARKET   
+29          30  ABIA   ABA NORTH   ARIARIA MARKET   
+..         ...   ...         ...              ...   
+70          71  ABIA   ABA NORTH           EZIAMA   
+71          72  ABIA   ABA NORTH  INDUSTRIAL AREA   
+72          73  ABIA   ABA NORTH  INDUSTRIAL AREA   
+73          74  ABIA   ABA NORTH  INDUSTRIAL AREA   
+74          75  ABIA   ABA NORTH  INDUSTRIAL AREA   
+75          76  ABIA   ABA NORTH  INDUSTRIAL AREA   
+76          77  ABIA   ABA NORTH  INDUSTRIAL AREA   
+77          78  ABIA   ABA NORTH  INDUSTRIAL AREA   
+78          79  ABIA   ABA NORTH  INDUSTRIAL AREA   
+79          80  ABIA   ABA NORTH  INDUSTRIAL AREA   
+80          81  ABIA   ABA NORTH  INDUSTRIAL AREA   
+81          82  ABIA   ABA NORTH  INDUSTRIAL AREA   
+82          83  ABIA   ABA NORTH  INDUSTRIAL AREA   
+83          84  ABIA   ABA NORTH  INDUSTRIAL AREA   
+84          85  ABIA   ABA NORTH  INDUSTRIAL AREA   
+85          86  ABIA   ABA NORTH  INDUSTRIAL AREA   
+86          87  ABIA   ABA NORTH  INDUSTRIAL AREA   
+87          88  ABIA   ABA NORTH  INDUSTRIAL AREA   
+88          89  ABIA   ABA NORTH  INDUSTRIAL AREA   
+89          90  ABIA   ABA NORTH  INDUSTRIAL AREA   
+90          91  ABIA   ABA NORTH  INDUSTRIAL AREA   
+91          92  ABIA   ABA NORTH  INDUSTRIAL AREA   
+92          93  ABIA   ABA NORTH  INDUSTRIAL AREA   
+93          94  ABIA   ABA NORTH  INDUSTRIAL AREA   
+94          95  ABIA   ABA NORTH  INDUSTRIAL AREA   
+95          96  ABIA   ABA NORTH  INDUSTRIAL AREA   
+96          97  ABIA   ABA NORTH  INDUSTRIAL AREA   
+97          98  ABIA   ABA NORTH  INDUSTRIAL AREA   
+98          99  ABIA   ABA NORTH  INDUSTRIAL AREA   
+99         100  ABIA   ABA NORTH  INDUSTRIAL AREA   
+
+                                      Polling Station  Code  Agent  Phone  PVC  
+0                             B.T.C-SCHOOL PREMISES I     7    NaN    NaN  NaN  
+1                            B.T.C-SCHOOL PREMISES II     8    NaN    NaN  NaN  
+2                           B.T.C-SCHOOL PREMISES III     9    NaN    NaN  NaN  
+3                            B.T.C-SCHOOL PREMISES IV    10    NaN    NaN  NaN  
+4                             B.T.C-SCHOOL PREMISES V    11    NaN    NaN  NaN  
+5                            B.T.C-SCHOOL PREMISES VI    12    NaN    NaN  NaN  
+6                           B.T.C-SCHOOL PREMISES VII    13    NaN    NaN  NaN  
+7             EZIOBU PRIM SCHOOL - SCHOOL PREMISES IV    29    NaN    NaN  NaN  
+8              EZIOBU PRIM SCHOOL - SCHOOL PREMISES V    30    NaN    NaN  NaN  
+9             EZIOBU PRIM SCHOOL - SCHOOL PREMISES VI    31    NaN    NaN  NaN  
+10           EZIOBU PRIM SCHOOL - SCHOOL PREMISES VII    32    NaN    NaN  NaN  
+11            EZIOBU PRIM SCHOOL - SCHOOL PREMISES II    27    NaN    NaN  NaN  
+12           EZIOBU PRIM SCHOOL - SCHOOL PREMISES III    28    NaN    NaN  NaN  
+13                      EZIOBU PRIM SCHOOL PREMISES I    26    NaN    NaN  NaN  
+14                    FIRE SERVICE STATION PREMISES I    24    NaN    NaN  NaN  
+15                   FIRE SERVICE STATION PREMISES II    25    NaN    NaN  NaN  
+16         HOLY GHOST COMM.SCHOOL - SCHOOL PREMISES I    39    NaN    NaN  NaN  
+17        HOLY GHOST COMM.SCHOOL - SCHOOL PREMISES II    40    NaN    NaN  NaN  
+18       HOLY GHOST COMM.SCHOOL - SCHOOL PREMISES III    41    NaN    NaN  NaN  
+19        HOLY GHOST COMM.SCHOOL - SCHOOL PREMISES IV    42    NaN    NaN  NaN  
+20         HOLY GHOST COMM.SCHOOL - SCHOOL PREMISES V    43    NaN    NaN  NaN  
+21                    OLD INTERNAL REVENUE-PREMISES I    14    NaN    NaN  NaN  
+22                   OLD INTERNAL REVENUE-PREMISES II    15    NaN    NaN  NaN  
+23                  OLD INTERNAL REVENUE-PREMISES III    16    NaN    NaN  NaN  
+24                   OLD INTERNAL REVENUE-PREMISES IV    17    NaN    NaN  NaN  
+25                    OLD INTERNAL REVENUE-PREMISES V    18    NaN    NaN  NaN  
+26                   OLD INTERNAL REVENUE-PREMISES VI    19    NaN    NaN  NaN  
+27                  OLD INTERNAL REVENUE-PREMISES VII    20    NaN    NaN  NaN  
+28                    OSUSU RD.PRIM.SCHOOL-PREMISES I     1    NaN    NaN  NaN  
+29                   OSUSU RD.PRIM.SCHOOL-PREMISES II     2    NaN    NaN  NaN  
+..                                                ...   ...    ...    ...  ...  
+70             RAILWAY QUARTERS - RAILWAY QUARTERS IV     4    NaN    NaN  NaN  
+71                    BATA PREMISES - BATA PREMISES I     5    NaN    NaN  NaN  
+72                   BATA PREMISES - BATA PREMISES II     6    NaN    NaN  NaN  
+73                  BATA PREMISES - BATA PREMISES III     7    NaN    NaN  NaN  
+74                   BATA PREMISES - BATA PREMISES IV     8    NaN    NaN  NaN  
+75                       G.B.O. CAR PARK - CAR PARK I    17    NaN    NaN  NaN  
+76                      G.B.O. CAR PARK - CAR PARK II    18    NaN    NaN  NaN  
+77                     G.B.O. CAR PARK - CAR PARK III    19    NaN    NaN  NaN  
+78                      G.B.O. CAR PARK - CAR PARK IV    20    NaN    NaN  NaN  
+79                       G.B.O. CAR PARK - CAR PARK V    21    NaN    NaN  NaN  
+80  IMMACULATE CONCEPTION PRIMARY SCHOOL PREMISES ...    29    NaN    NaN  NaN  
+81                           INDPENDENCE ROAD-I.D.H I    13    NaN    NaN  NaN  
+82                          INDPENDENCE ROAD-I.D.H II    14    NaN    NaN  NaN  
+83                         INDPENDENCE ROAD-I.D.H III    15    NaN    NaN  NaN  
+84                          INDPENDENCE ROAD-I.D.H IV    16    NaN    NaN  NaN  
+85        LEVER BROTHERS GATE - LEVER BROTHERS GATE I     9    NaN    NaN  NaN  
+86        LEVER BROTHERS GATE- LEVER BROTHERS GATE II    10    NaN    NaN  NaN  
+87       LEVER BROTHERS GATE- LEVER BROTHERS GATE III    11    NaN    NaN  NaN  
+88        LEVER BROTHERS GATE- LEVER BROTHERS GATE IV    12    NaN    NaN  NaN  
+89          NGWA CULTURAL HALL - NGWA CULTURAL HALL I     1    NaN    NaN  NaN  
+90         NGWA CULTURAL HALL - NGWA CULTURAL HALL II     2    NaN    NaN  NaN  
+91         NGWA CULTURAL HALL- NGWA CULTURAL HALL III     3    NaN    NaN  NaN  
+92          NGWA CULTURAL HALL- NGWA CULTURAL HALL IV     4    NaN    NaN  NaN  
+93      OLD POST OFFICE - OLD POST OFFICE PREMISES IV    25    NaN    NaN  NaN  
+94       OLD POST OFFICE - OLD POST OFFICE PREMISES I    22    NaN    NaN  NaN  
+95      OLD POST OFFICE - OLD POST OFFICE PREMISES II    23    NaN    NaN  NaN  
+96     OLD POST OFFICE - OLD POST OFFICE PREMISES III    24    NaN    NaN  NaN  
+97       OLD POST OFFICE - OLD POST OFFICE PREMISES V    26    NaN    NaN  NaN  
+98      OLD POST OFFICE - OLD POST OFFICE PREMISES VI    27    NaN    NaN  NaN  
+99     OLD POST OFFICE - OLD POST OFFICE PREMISES VII    28    NaN    NaN  NaN  
+
+[100 rows x 9 columns]]","[    Unnamed: 0 State Local Govt.         Ward  \
+0          101  ABIA   ABA NORTH      OGBOR I   
+1          102  ABIA   ABA NORTH      OGBOR I   
+2          103  ABIA   ABA NORTH      OGBOR I   
+3          104  ABIA   ABA NORTH      OGBOR I   
+4          105  ABIA   ABA NORTH      OGBOR I   
+5          106  ABIA   ABA NORTH      OGBOR I   
+6          107  ABIA   ABA NORTH      OGBOR I   
+7          108  ABIA   ABA NORTH      OGBOR I   
+8          109  ABIA   ABA NORTH      OGBOR I   
+9          110  ABIA   ABA NORTH      OGBOR I   
+10         111  ABIA   ABA NORTH      OGBOR I   
+11         112  ABIA   ABA NORTH      OGBOR I   
+12         113  ABIA   ABA NORTH      OGBOR I   
+13         114  ABIA   ABA NORTH      OGBOR I   
+14         115  ABIA   ABA NORTH      OGBOR I   
+15         116  ABIA   ABA NORTH      OGBOR I   
+16         117  ABIA   ABA NORTH      OGBOR I   
+17         118  ABIA   ABA NORTH      OGBOR I   
+18         119  ABIA   ABA NORTH      OGBOR I   
+19         120  ABIA   ABA NORTH      OGBOR I   
+20         121  ABIA   ABA NORTH      OGBOR I   
+21         122  ABIA   ABA NORTH      OGBOR I   
+22         123  ABIA   ABA NORTH      OGBOR I   
+23         124  ABIA   ABA NORTH      OGBOR I   
+24         125  ABIA   ABA NORTH      OGBOR I   
+25         126  ABIA   ABA NORTH      OGBOR I   
+26         127  ABIA   ABA NORTH      OGBOR I   
+27         128  ABIA   ABA NORTH     OGBOR II   
+28         129  ABIA   ABA NORTH     OGBOR II   
+29         130  ABIA   ABA NORTH     OGBOR II   
+..         ...   ...         ...          ...   
+70         171  ABIA   ABA NORTH  OLD ABA GRA   
+71         172  ABIA   ABA NORTH  OLD ABA GRA   
+72         173  ABIA   ABA NORTH  OLD ABA GRA   
+73         174  ABIA   ABA NORTH  OLD ABA GRA   
+74         175  ABIA   ABA NORTH  OLD ABA GRA   
+75         176  ABIA   ABA NORTH  OLD ABA GRA   
+76         177  ABIA   ABA NORTH      OSUSU I   
+77         178  ABIA   ABA NORTH      OSUSU I   
+78         179  ABIA   ABA NORTH      OSUSU I   
+79         180  ABIA   ABA NORTH      OSUSU I   
+80         181  ABIA   ABA NORTH      OSUSU I   
+81         182  ABIA   ABA NORTH      OSUSU I   
+82         183  ABIA   ABA NORTH      OSUSU I   
+83         184  ABIA   ABA NORTH      OSUSU I   
+84         185  ABIA   ABA NORTH      OSUSU I   
+85         186  ABIA   ABA NORTH      OSUSU I   
+86         187  ABIA   ABA NORTH      OSUSU I   
+87         188  ABIA   ABA NORTH      OSUSU I   
+88         189  ABIA   ABA NORTH      OSUSU I   
+89         190  ABIA   ABA NORTH      OSUSU I   
+90         191  ABIA   ABA NORTH      OSUSU I   
+91         192  ABIA   ABA NORTH      OSUSU I   
+92         193  ABIA   ABA NORTH      OSUSU I   
+93         194  ABIA   ABA NORTH      OSUSU I   
+94         195  ABIA   ABA NORTH      OSUSU I   
+95         196  ABIA   ABA NORTH      OSUSU I   
+96         197  ABIA   ABA NORTH      OSUSU I   
+97         198  ABIA   ABA NORTH     OSUSU II   
+98         199  ABIA   ABA NORTH     OSUSU II   
+99         200  ABIA   ABA NORTH     OSUSU II   
+
+                                      Polling Station  Code  Agent  Phone  PVC  
+0           HIS STEPS PRIM.SCHOOL - SCHOOL PREMISES I    11    NaN    NaN  NaN  
+1          HIS STEPS PRIM.SCHOOL - SCHOOL PREMISES II    12    NaN    NaN  NaN  
+2         HIS STEPS PRIM.SCHOOL - SCHOOL PREMISES III    13    NaN    NaN  NaN  
+3          HIS STEPS PRIM.SCHOOL - SCHOOL PREMISES IV    14    NaN    NaN  NaN  
+4          MERCY GIRLS SEC.SCHOOL - SCHOOL PREMISES I    20    NaN    NaN  NaN  
+5         MERCY GIRLS SEC.SCHOOL - SCHOOL PREMISES II    21    NaN    NaN  NaN  
+6        MERCY GIRLS SEC.SCHOOL - SCHOOL PREMISES III    22    NaN    NaN  NaN  
+7         MERCY GIRLS SEC.SCHOOL - SCHOOL PREMISES IV    23    NaN    NaN  NaN  
+8          MERCY GIRLS SEC.SCHOOL - SCHOOL PREMISES V    24    NaN    NaN  NaN  
+9         MERCY GIRLS SEC.SCHOOL - SCHOOL PREMISES VI    25    NaN    NaN  NaN  
+10       MERCY GIRLS SEC.SCHOOL - SCHOOL PREMISES VII    26    NaN    NaN  NaN  
+11      MERCY GIRLS SEC.SCHOOL - SCHOOL PREMISES VIII    27    NaN    NaN  NaN  
+12     NEW UMUAHIA RD.PRIM.SCHOOL - SCHOOL PREMISES I    15    NaN    NaN  NaN  
+13    NEW UMUAHIA RD.PRIM.SCHOOL - SCHOOL PREMISES II    16    NaN    NaN  NaN  
+14   NEW UMUAHIA RD.PRIM.SCHOOL - SCHOOL PREMISES III    17    NaN    NaN  NaN  
+15    NEW UMUAHIA RD.PRIM.SCHOOL - SCHOOL PREMISES IV    18    NaN    NaN  NaN  
+16     NEW UMUAHIA RD.PRIM.SCHOOL - SCHOOL PREMISES V    19    NaN    NaN  NaN  
+17                   OGBOR HILL HALL - COUNCIL HALL I     6    NaN    NaN  NaN  
+18                  OGBOR HILL HALL - COUNCIL HALL II     7    NaN    NaN  NaN  
+19                 OGBOR HILL HALL - COUNCIL HALL III     8    NaN    NaN  NaN  
+20                  OGBOR HILL HALL - COUNCIL HALL IV     9    NaN    NaN  NaN  
+21                   OGBOR HILL HALL - COUNCIL HALL V    10    NaN    NaN  NaN  
+22           WILCOXMEM.SEC.SCHOOL - SCHOOL PREMISES I     1    NaN    NaN  NaN  
+23          WILCOXMEM.SEC.SCHOOL - SCHOOL PREMISES II     2    NaN    NaN  NaN  
+24         WILCOXMEM.SEC.SCHOOL - SCHOOL PREMISES III     3    NaN    NaN  NaN  
+25          WILCOXMEM.SEC.SCHOOL - SCHOOL PREMISES IV     4    NaN    NaN  NaN  
+26           WILCOXMEM.SEC.SCHOOL - SCHOOL PREMISES V     5    NaN    NaN  NaN  
+27              FEDERAL HOUSING ESTATE-SEC.PREMISES I    22    NaN    NaN  NaN  
+28             FEDERAL HOUSING ESTATE-SEC.PREMISES II    23    NaN    NaN  NaN  
+29            FEDERAL HOUSING ESTATE-SEC.PREMISES III    24    NaN    NaN  NaN  
+..                                                ...   ...    ...    ...  ...  
+70                 WATER TANK WATER TANK PREMISES III    19    NaN    NaN  NaN  
+71                  WATER TANK WATER TANK PREMISES IV    20    NaN    NaN  NaN  
+72                   WATER TANK WATER TANK PREMISES V    21    NaN    NaN  NaN  
+73                  WATER TANK WATER TANK PREMISES VI    22    NaN    NaN  NaN  
+74                 WATER TANK WATER TANK PREMISES VII    23    NaN    NaN  NaN  
+75                WATER TANK WATER TANK PREMISES VIII    24    NaN    NaN  NaN  
+76                           B.T.C. SCHOOL PREMISES I     7    NaN    NaN  NaN  
+77                          B.T.C. SCHOOL PREMISES II     8    NaN    NaN  NaN  
+78                         B.T.C. SCHOOL PREMISES III     9    NaN    NaN  NaN  
+79                          B.T.C. SCHOOL PREMISES IV    10    NaN    NaN  NaN  
+80                           B.T.C. SCHOOL PREMISES V    11    NaN    NaN  NaN  
+81                          B.T.C. SCHOOL PREMISES VI    12    NaN    NaN  NaN  
+82                         B.T.C. SCHOOL PREMISES VII    13    NaN    NaN  NaN  
+83   OKIGWE ROAD.PRIMARY SCHOOL - SCHOOL PREMISES III    16    NaN    NaN  NaN  
+84    OKIGWE ROAD.PRIMARY SCHOOL - SCHOOL PREMISES IV    17    NaN    NaN  NaN  
+85     OKIGWE ROAD.PRIMARY SCHOOL - SCHOOL PREMISES V    18    NaN    NaN  NaN  
+86    OKIGWE ROAD.PRIMARY SCHOOL - SCHOOL PREMISES VI    19    NaN    NaN  NaN  
+87   OKIGWE ROAD.PRIMARY SCHOOL - SCHOOL PREMISES VII    20    NaN    NaN  NaN  
+88  OKIGWE ROAD.PRIMARY SCHOOL - SCHOOL PREMISES VIII    21    NaN    NaN  NaN  
+89  OKIGWE ROAD.PRIMARY SCHOOL PREMISES - SCHOOL P...    15    NaN    NaN  NaN  
+90      OKIGWE ROAD.PRIMARY SCHOOL- SCHOOL PREMISES I    14    NaN    NaN  NaN  
+91                OSUSU RD.PRI.SCHL-SCHOOL PREMISES V     5    NaN    NaN  NaN  
+92               OSUSU RD.PRI.SCHL-SCHOOL PREMISES VI     6    NaN    NaN  NaN  
+93              OSUSU RD.PRI.SCHOOL-SCHOOL PREMISES I     1    NaN    NaN  NaN  
+94             OSUSU RD.PRI.SCHOOL-SCHOOL PREMISES II     2    NaN    NaN  NaN  
+95            OSUSU RD.PRI.SCHOOL-SCHOOL PREMISES III     3    NaN    NaN  NaN  
+96             OSUSU RD.PRI.SCHOOL-SCHOOL PREMISES IV     4    NaN    NaN  NaN  
+97        BRIGHI WAY NURS. SCHOOL - SCHOOL PREMISES I     8    NaN    NaN  NaN  
+98       BRIGHI WAY NURS. SCHOOL - SCHOOL PREMISES II     9    NaN    NaN  NaN  
+99      BRIGHI WAY NURS. SCHOOL - SCHOOL PREMISES III    10    NaN    NaN  NaN  
+
+[100 rows x 9 columns]]","[    Unnamed: 0 State Local Govt.                      Ward  \
+0          201  ABIA   ABA NORTH                  OSUSU II   
+1          202  ABIA   ABA NORTH                  OSUSU II   
+2          203  ABIA   ABA NORTH                  OSUSU II   
+3          204  ABIA   ABA NORTH                  OSUSU II   
+4          205  ABIA   ABA NORTH                  OSUSU II   
+5          206  ABIA   ABA NORTH                  OSUSU II   
+6          207  ABIA   ABA NORTH                  OSUSU II   
+7          208  ABIA   ABA NORTH                  OSUSU II   
+8          209  ABIA   ABA NORTH                  OSUSU II   
+9          210  ABIA   ABA NORTH                  OSUSU II   
+10         211  ABIA   ABA NORTH                  OSUSU II   
+11         212  ABIA   ABA NORTH                  OSUSU II   
+12         213  ABIA   ABA NORTH                  OSUSU II   
+13         214  ABIA   ABA NORTH                  OSUSU II   
+14         215  ABIA   ABA NORTH                  OSUSU II   
+15         216  ABIA   ABA NORTH  ST.EUGENES BY OKIGWE RD.   
+16         217  ABIA   ABA NORTH  ST.EUGENES BY OKIGWE RD.   
+17         218  ABIA   ABA NORTH  ST.EUGENES BY OKIGWE RD.   
+18         219  ABIA   ABA NORTH  ST.EUGENES BY OKIGWE RD.   
+19         220  ABIA   ABA NORTH  ST.EUGENES BY OKIGWE RD.   
+20         221  ABIA   ABA NORTH  ST.EUGENES BY OKIGWE RD.   
+21         222  ABIA   ABA NORTH  ST.EUGENES BY OKIGWE RD.   
+22         223  ABIA   ABA NORTH  ST.EUGENES BY OKIGWE RD.   
+23         224  ABIA   ABA NORTH  ST.EUGENES BY OKIGWE RD.   
+24         225  ABIA   ABA NORTH  ST.EUGENES BY OKIGWE RD.   
+25         226  ABIA   ABA NORTH  ST.EUGENES BY OKIGWE RD.   
+26         227  ABIA   ABA NORTH  ST.EUGENES BY OKIGWE RD.   
+27         228  ABIA   ABA NORTH  ST.EUGENES BY OKIGWE RD.   
+28         229  ABIA   ABA NORTH  ST.EUGENES BY OKIGWE RD.   
+29         230  ABIA   ABA NORTH  ST.EUGENES BY OKIGWE RD.   
+..         ...   ...         ...                       ...   
+70         271  ABIA   ABA NORTH                    UMUOLA   
+71         272  ABIA   ABA NORTH                    UMUOLA   
+72         273  ABIA   ABA NORTH                    UMUOLA   
+73         274  ABIA   ABA NORTH                    UMUOLA   
+74         275  ABIA   ABA NORTH                    UMUOLA   
+75         276  ABIA   ABA NORTH                    UMUOLA   
+76         277  ABIA   ABA NORTH                    UMUOLA   
+77         278  ABIA   ABA NORTH                    UMUOLA   
+78         279  ABIA   ABA NORTH                    UMUOLA   
+79         280  ABIA   ABA NORTH                    URATTA   
+80         281  ABIA   ABA NORTH                    URATTA   
+81         282  ABIA   ABA NORTH                    URATTA   
+82         283  ABIA   ABA NORTH                    URATTA   
+83         284  ABIA   ABA NORTH                    URATTA   
+84         285  ABIA   ABA NORTH                    URATTA   
+85         286  ABIA   ABA NORTH                    URATTA   
+86         287  ABIA   ABA NORTH                    URATTA   
+87         288  ABIA   ABA NORTH                    URATTA   
+88         289  ABIA   ABA NORTH                    URATTA   
+89         290  ABIA   ABA NORTH                    URATTA   
+90         291  ABIA   ABA NORTH                    URATTA   
+91         292  ABIA   ABA NORTH                    URATTA   
+92         293  ABIA   ABA NORTH                    URATTA   
+93         294  ABIA   ABA NORTH                    URATTA   
+94         295  ABIA   ABA NORTH                    URATTA   
+95         296  ABIA   ABA NORTH                    URATTA   
+96         297  ABIA   ABA NORTH                    URATTA   
+97         298  ABIA   ABA NORTH                    URATTA   
+98         299  ABIA   ABA NORTH                    URATTA   
+99         300  ABIA   ABA NORTH                    URATTA   
+
+                                     Polling Station  Code  Agent  Phone  PVC  
+0       BRIGHI WAY NURS. SCHOOL - SCHOOL PREMISES IV    11    NaN    NaN  NaN  
+1        BRIGHI WAY NURS. SCHOOL - SCHOOL PREMISES V    12    NaN    NaN  NaN  
+2       BRIGHI WAY NURS. SCHOOL - SCHOOL PREMISES VI    13    NaN    NaN  NaN  
+3      BRIGHI WAY NURS. SCHOOL - SCHOOL PREMISES VII    14    NaN    NaN  NaN  
+4     BRIGHI WAY NURS. SCHOOL - SCHOOL PREMISES VIII    15    NaN    NaN  NaN  
+5         OSUSU SECONDARY SCHOOL - SCHOOL PREMISES I     1    NaN    NaN  NaN  
+6       OSUSU SECONDARY SCHOOL - SCHOOL PREMISES III     3    NaN    NaN  NaN  
+7        OSUSU SECONDARY SCHOOL - SCHOOL PREMISES IV     4    NaN    NaN  NaN  
+8         OSUSU SECONDARY SCHOOL - SCHOOL PREMISES V     5    NaN    NaN  NaN  
+9        OSUSU SECONDARY SCHOOL - SCHOOL PREMISES VI     6    NaN    NaN  NaN  
+10       OSUSU SECONDARY SCHOOL - SCHOOL PREMISES II     2    NaN    NaN  NaN  
+11      OSUSU SECONDARY SCHOOL - SCHOOL PREMISES VII     7    NaN    NaN  NaN  
+12          POPE JOHN PAUL COLLEGE-SCHOOL PREMISES I    16    NaN    NaN  NaN  
+13         POPE JOHN PAUL COLLEGE-SCHOOL PREMISES II    17    NaN    NaN  NaN  
+14        POPE JOHN PAUL COLLEGE-SCHOOL PREMISES III    18    NaN    NaN  NaN  
+15                  ASA OKUAJA PRIM. SCHOOL PREMISES    12    NaN    NaN  NaN  
+16                   EKWEREAZU TOWN HALL - TOWN HALL    19    NaN    NaN  NaN  
+17       HOLY GHOST COMM. SCHOOL - SCHOOL PREMISES V     5    NaN    NaN  NaN  
+18      HOLY GHOST COMM. SCHOOL - SCHOOL PREMISES VI     6    NaN    NaN  NaN  
+19       HOLY GHOST COMM. SCHOOL - SCHOOL PREMISES I     1    NaN    NaN  NaN  
+20     HOLY GHOST COMM. SCHOOL - SCHOOL PREMISES III     3    NaN    NaN  NaN  
+21      HOLY GHOST COMM. SCHOOL - SCHOOL PREMISES IV     4    NaN    NaN  NaN  
+22      HOLY GHOST COMM. SCHOOL - SCHOOL PREMISES II     2    NaN    NaN  NaN  
+23            SACRED HEART COLLEGE-SCHOOL PREMISES I     7    NaN    NaN  NaN  
+24           SACRED HEART COLLEGE-SCHOOL PREMISES II     8    NaN    NaN  NaN  
+25          SACRED HEART COLLEGE-SCHOOL PREMISES III     9    NaN    NaN  NaN  
+26           SACRED HEART COLLEGE-SCHOOL PREMISES IV    10    NaN    NaN  NaN  
+27            SACRED HEART COLLEGE-SCHOOL PREMISES V    11    NaN    NaN  NaN  
+28        ST.EUGENE PRIM. SCHOOL - SCHOOL PREMISES I    13    NaN    NaN  NaN  
+29       ST.EUGENE PRIM. SCHOOL - SCHOOL PREMISES II    14    NaN    NaN  NaN  
+..                                               ...   ...    ...    ...  ...  
+70            UMUOLA OKPULOR HALL - COUNCIL HALL XII    19    NaN    NaN  NaN  
+71           UMUOLA OKPULOR HALL - COUNCIL HALL XIII    20    NaN    NaN  NaN  
+72             UMUOLA PRIM. SCHOOL-SCHOOL PREMISES I     1    NaN    NaN  NaN  
+73            UMUOLA PRIM. SCHOOL-SCHOOL PREMISES II     2    NaN    NaN  NaN  
+74           UMUOLA PRIM. SCHOOL-SCHOOL PREMISES III     3    NaN    NaN  NaN  
+75            UMUOLA PRIM. SCHOOL-SCHOOL PREMISES IV     4    NaN    NaN  NaN  
+76             UMUOLA PRIM. SCHOOL-SCHOOL PREMISES V     5    NaN    NaN  NaN  
+77            UMUOLA PRIM. SCHOOL-SCHOOL PREMISES VI     6    NaN    NaN  NaN  
+78           UMUOLA PRIM. SCHOOL-SCHOOL PREMISES VII     7    NaN    NaN  NaN  
+79      STELLA MARIS SEC. SCHOOL - SCHOOL PREMISES I    18    NaN    NaN  NaN  
+80     STELLA MARIS SEC. SCHOOL - SCHOOL PREMISES II    19    NaN    NaN  NaN  
+81    STELLA MARIS SEC. SCHOOL - SCHOOL PREMISES III    20    NaN    NaN  NaN  
+82     STELLA MARIS SEC. SCHOOL - SCHOOL PREMISES IV    21    NaN    NaN  NaN  
+83     STELLA MARIS SEC. SCHOOL - SCHOOL PREMISES IX    26    NaN    NaN  NaN  
+84      STELLA MARIS SEC. SCHOOL - SCHOOL PREMISES V    22    NaN    NaN  NaN  
+85     STELLA MARIS SEC. SCHOOL - SCHOOL PREMISES VI    23    NaN    NaN  NaN  
+86    STELLA MARIS SEC. SCHOOL - SCHOOL PREMISES VII    24    NaN    NaN  NaN  
+87   STELLA MARIS SEC. SCHOOL - SCHOOL PREMISES VIII    25    NaN    NaN  NaN  
+88             URATTA COUNCIL HALL - HALL PREMISES I     1    NaN    NaN  NaN  
+89            URATTA COUNCIL HALL - HALL PREMISES II     2    NaN    NaN  NaN  
+90           URATTA COUNCIL HALL - HALL PREMISES III     3    NaN    NaN  NaN  
+91            URATTA COUNCIL HALL - HALL PREMISES IV     4    NaN    NaN  NaN  
+92            URATTA COUNCIL HALL - HALL PREMISES IX     9    NaN    NaN  NaN  
+93             URATTA COUNCIL HALL - HALL PREMISES V     5    NaN    NaN  NaN  
+94            URATTA COUNCIL HALL - HALL PREMISES VI     6    NaN    NaN  NaN  
+95           URATTA COUNCIL HALL - HALL PREMISES VII     7    NaN    NaN  NaN  
+96          URATTA COUNCIL HALL - HALL PREMISES VIII     8    NaN    NaN  NaN  
+97             URATTA COUNCIL HALL - HALL PREMISES X    10    NaN    NaN  NaN  
+98            URATTA COUNCIL HALL - HALL PREMISES XI    11    NaN    NaN  NaN  
+99  URATTA TECHNICAL SEC. SCH. URATTA COUNCIL HALL I    12    NaN    NaN  NaN  
+
+[100 rows x 9 columns]]"
